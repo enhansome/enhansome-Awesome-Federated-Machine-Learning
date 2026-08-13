@@ -1,0 +1,172 @@
+{
+  "items": [
+    {
+      "description": "In this section, we will summarize Federated Learning papers accepted by top machine learning conference, Including NeurIPS, ICML, ICLR.",
+      "items": [],
+      "title": "Top Machine Learning Conferences"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ICML"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ICLR"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NeurIPS"
+    },
+    {
+      "description": "In this section, we will summarize Federated Learning papers accepted by top computer vision conference, Including CVPR, ICCV, ECCV.",
+      "items": [],
+      "title": "Top Computer Vision Conferences"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CVPR"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ECCV"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ICCV"
+    },
+    {
+      "description": "In this section, we will summarize Federated Learning papers accepted by top AI and DM conference, Including AAAI, AISTATS, KDD.",
+      "items": [],
+      "title": "Top Artificial Intelligence and Data Mining Conferences"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AAAI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AISTATS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "KDD"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "Model Aggregation (or Model Fusion) refers to how to combine local models into a shared global model.\n",
+      "items": [],
+      "title": "1. Model Aggregation"
+    },
+    {
+      "description": "Recommender system (RecSys) is widely used to solve information overload. In general, the more data RecSys use, the better the recommendation performance we can obtain.\nTraditionally, RecSys requires the data that are distributed across multiple devices to be uploaded to the central database for model training. However, due to privacy and security concerns, such directly sharing user data strategies are no longer appropriate.\nThe incorporation of federated learning and RecSys is a promising approach, which can alleviate the risk of privacy leakage.\nMore federated recommendation papers can be found in this repository: FedRecPapers\n",
+      "items": [],
+      "title": "3. Recommender system"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "4. Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "4.1. Attack"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "4.2. Defense"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "5. Survey"
+    },
+    {
+      "description": "Communication-Based: Improving efficiency by reducing model parameters transmission.\nHardware-Based: Improving efficiency by hardware acceleration (GPU, FPGA, etc.)\nAlgorithm-Based: Improving efficiency by accelerating model convergence rate (local training, model aggregation, client selection, etc.)\n",
+      "items": [],
+      "title": "7. Efficiency"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "8. Optimization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "9. Fairness"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "10. Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "11. Boosting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "13. Unsupervised Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "14. Heterogeneity"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "15. Client Selection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "16. Graph Neural Networks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "18. Other Machine Learning Paradigm"
+    },
+    {
+      "description": "Developing a federated learning framework from scratch is very time-consuming, especially in industrial. An excellent FL framework can facilitate engineers and researchers to train, research and deploy the FL model in practice. In this section, we summarize some commonly used open-source FL frameworks from both industrial and academia perspectives.",
+      "items": [],
+      "title": "Open-Sources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Enterprise Grade"
+    },
+    {
+      "description": "⬆ Return to top",
+      "items": [],
+      "title": "Research Purpose"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T05:59:48.195Z",
+    "original_repository": "innovation-cat/Awesome-Federated-Machine-Learning",
+    "original_repository_sha": "831ef49f3f6cb79aaf701d06b6b1d4f4eb112759",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Federated-Machine-Learning",
+    "enhanced_repository_description": null,
+    "title": "Awesome Federated Machine Learning with stars"
+  }
+}
