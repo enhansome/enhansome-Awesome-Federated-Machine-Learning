@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-09-04T08:59:40.920Z",
+    "last_updated": "2026-09-05T08:30:40.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about federated learning, including research papers, books, codes, tutorials, videos and beyond",
@@ -13,7 +13,7 @@
       "open_issues": 7,
       "owner": "innovation-cat",
       "repo": "Awesome-Federated-Machine-Learning",
-      "stars": 2093,
+      "stars": 2094,
       "topics": [
         "computer-vision",
         "deep-learning",
