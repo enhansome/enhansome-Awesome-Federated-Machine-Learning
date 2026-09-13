@@ -3141,7 +3141,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 
   [Chinese Version](https://item.jd.com/13206070.html)
 
-  [Github](https://github.com/FederatedAI/Practicing-Federated-Learning) ⭐ 897 | 🐛 23 | 🌐 Python | 📅 2024-07-27
+  [Github](https://github.com/FederatedAI/Practicing-Federated-Learning) ⭐ 898 | 🐛 23 | 🌐 Python | 📅 2024-07-27
 
 * Federated Learning - A Comprehensive Overview of Methods and Applications
 
@@ -5186,4 +5186,4 @@ Developing a federated learning framework from scratch is very time-consuming, e
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
