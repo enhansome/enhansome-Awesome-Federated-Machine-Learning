@@ -3482,7 +3482,7 @@ Traditionally, RecSys requires the data that are distributed across multiple dev
 
 The incorporation of federated learning and RecSys is a promising approach, which can alleviate the risk of privacy leakage.
 
-More federated recommendation papers can be found in this repository: [FedRecPapers](https://github.com/AustinNeverPee/FedRecPapers) ⭐ 144 | 🐛 0 | 📅 2023-10-17
+More federated recommendation papers can be found in this repository: [FedRecPapers](https://github.com/AustinNeverPee/FedRecPapers) ⭐ 143 | 🐛 0 | 📅 2023-10-17
 
 <table border=0 cellpadding=0 cellspacing=0 >
     <col width="5%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
@@ -5186,4 +5186,4 @@ Developing a federated learning framework from scratch is very time-consuming, e
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
